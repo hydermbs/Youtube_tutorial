@@ -1,9 +1,5 @@
 
 
-Here’s a draft for your README file tailored to your GitHub repository and YouTube channel:  
-
----
-
 # Tech Khana GitHub Repository  
 
 Welcome to the **Tech Khana** GitHub repository! 🎉  
